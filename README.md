@@ -2,7 +2,7 @@
 <p align="center">Mechanical Engineering Student @ Sacramento City College | CAD Design · Fabrication · Robotics</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> ·
+  <a href="linkedin.com/in/zackary-aebersold-017707316">LinkedIn</a> ·
   <a href="mailto:radicalbro2019@gmail.com">Email</a>
 </p>
 
